@@ -1,0 +1,14 @@
+material april_tag
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture stag41_12_00000.png
+      }
+    }
+  }
+}
+
